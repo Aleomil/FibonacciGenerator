@@ -18,7 +18,3 @@ def fiboList(num):
     for i in range(num):
         list.append(fibonacci(i))
     return list
-
-print(fiboList(30))
-print(isFibo(3,8))
-print(isFibo(121393,30))
