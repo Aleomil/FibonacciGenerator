@@ -1,4 +1,6 @@
-# FibonacciGenerator (Feedback is more than welcome as it is the first thing I upload something to Git) THANKS!
+# FibonacciGenerator
+(Feedback is more than welcome as it is the first thing I upload something to Git, THANKS!)
+
 Repo with a Fibonacci Generator. The user can select from 3 options:
 
 -Option 1: See n numbers of the Fibo sequence
